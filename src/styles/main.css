@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Kanit-Medium;
+    src: url("./fonts/Kanit/Kanit-Medium.ttf");
+}
+
+@font-face {
+    font-family: Play;
+    src: url("./fonts/Play/Play-Bold.ttf");
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url("./fonts/Roboto/Roboto-Medium.ttf");
+}
+
+* {
+    font-family: Roboto, sans-serif;
+    color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../resources/img/background.svg") repeat;
+}

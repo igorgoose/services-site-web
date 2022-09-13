@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logoContainer {
+  height: 10rem;
+  width: 10rem;
+  background: url("./resources/img/logo.jpg");
+  background-size: cover;
+}
